@@ -6,11 +6,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            //Console.Write("What is your name ? : ");
-            string name = Console.ReadLine();   
-            Console.WriteLine($"Hello,{name}!");
-            int t = 1;
-            Console.WriteLine(t);
+            string papay = Console.ReadLine();
+            Console.WriteLine(papay);
 
         }
     }
