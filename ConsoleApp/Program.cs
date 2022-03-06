@@ -12,6 +12,9 @@ namespace ConsoleApp
             int number2 = 10;
             Console.WriteLine(number1);
             Console.WriteLine(number2);
+
+            int number3 = number1 + number2;
+            Console.WriteLine(number3);
         }
     }
 }
